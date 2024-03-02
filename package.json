@@ -1,0 +1,17 @@
+{
+  "name": "calendar-note-9th",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-6th": "^1.0.1",
+    "readline-sync": "^1.4.10",
+    "remind-works-8th": "^1.0.1"
+  }
+}
